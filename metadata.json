@@ -1,6 +1,0 @@
-{
-  "name": "StudyNest",
-  "description": "Premium Student Workspace with Firebase and Gemini AI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
