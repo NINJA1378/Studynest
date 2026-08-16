@@ -111,9 +111,9 @@
 
 ## 💻 How to Run
 
-1. Clone or download the repository.
-2. Open `index.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
-3. No server setup or Node.js dependencies required — 100% lightweight client-side execution!
+Use the website https://studynest-holymonkey.ai.studio for cloud service
+➡️the files used in the website are in the zip folder
+To locally host the website use the Html version
 
 ---
 
